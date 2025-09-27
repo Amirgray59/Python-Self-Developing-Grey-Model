@@ -1,6 +1,6 @@
 # Optimized Self-Developing Grey Model (OSDGM) in Python
 
-This project implements the **Optimized Self-Developing Grey Model (OSDGM)** along with GM(1,1) and DGM models in Python for time series prediction. The code estimates model parameters, optimizes them using `scipy.optimize.minimize`, and visualizes predictions against true values.
+This project is for **Self-Developing Grey Model (OSDGM)** with GM(1,1) and DGM models in Python for time series prediction. The code estimates model parameters, optimizes them and visualizes them.
 
 ## Features
 
